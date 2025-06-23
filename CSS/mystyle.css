@@ -1,0 +1,480 @@
+* {
+    padding: 0;
+    margin: 0;
+}.header {
+    background-color: rgb(237, 240, 243);
+    width: 100%;
+    height: 70px;
+    list-style-type: none;
+}
+#darklogo {
+    float: left;
+    height: 40px;
+    width: 40px;
+    margin: 15px 0 0 85px;
+}
+.navbar li {
+    list-style-type: none;
+    float: right;
+    margin-left: 30px;
+}
+.navbar li a {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    float:right;
+    padding: 25px 10px 25px 10px;
+}
+.navbar li a:hover {
+    background-color: #ddd;
+}
+#button {
+    float: right;
+    border: 2px solid gray;
+    color: rgb(80, 77, 77);
+    padding: 10px;
+    border-radius: 8px;
+    margin: 15px 40px 0 70px;
+}
+.section1 img {
+    width: 100%;
+    height: 500px;
+}
+.sec1 {
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    right: 100px;
+    top: 250px;
+}
+.sec1 h1 {
+    font-size: 90px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: right;
+    color: white;
+}   
+.sec1 p {
+    text-align: right;
+    color: rgb(119, 115, 115);
+    font-size: 20px;
+    letter-spacing: 3px;
+    word-spacing: 2px;
+    line-height: 25px;
+    margin-bottom: 60px;
+}
+.sec1 a {
+    background-color: rgb(245, 7, 78);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    position: absolute;
+    right: 0;
+    padding: 10px;
+    
+}
+
+.section2 {
+    height: 200px;
+    width: 100%;
+    background-color: white;
+}
+.section2 img {
+    margin-left: 45px;
+}
+.div1 {
+    width: 220px;
+    height: 180px;
+    position: absolute;
+    right: 1050px;  
+}
+.div2 { 
+    width: 220px;
+    height: 180px;
+    position: absolute;
+    right: 650px;
+}
+.div3 {
+    width: 220px;
+    height: 180px;
+    position: absolute;
+    right: 250px;
+}
+#head {
+    margin-left: 15px;
+}
+#para {
+    color: rgb(88, 86, 86);
+    padding-top: 15px;
+    text-align-last: center;
+}
+.section3 {
+    background-color:aliceblue;
+    width: 100%;
+    height: 500px;
+}
+.section3 h1 {
+    font-size: 70px;
+}
+.section3 img {
+    width: 250px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.section3 hr{
+    width: 35px;
+    background-color: red;
+    height: 2px;
+    border: none;
+}
+.div4 {
+    width: 250px;
+    height: 350px;
+    position: absolute;
+    right: 1120px;
+    top: 900px;
+}
+.div5 {
+    width: 250px;
+    height: 350px;
+    position: absolute;
+    right: 790px;
+    top: 900px;
+}
+.div6 {
+    width: 250px;
+    height: 350px;
+    position: absolute;
+    right: 460px;
+    top: 900px;
+}
+.div7 {
+    width: 250px;
+    height: 350px;
+    position: absolute;
+    right: 130px;
+    top: 900px;
+}
+.section3 h4 {
+    margin-bottom: 20px;
+}
+#par {
+    margin: 20px 0;
+    color: rgb(87, 86, 86);
+}
+.section4 {
+    background-color: black;
+}
+.section4 img{
+    width:100%;
+    height: 400px;
+    opacity: 0.4;
+}
+.section4 h1 {
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: white;
+}
+.section4 p {
+    text-align-last: center;
+    color: white; 
+}
+.div8 {
+    width: 250px;
+    height: 270px;
+    position: absolute;
+    right: 1050px;
+    top: 1400px;
+}
+.div9 {
+    width: 250px;
+    height: 270px;
+    position: absolute;
+    right: 620px;
+    top: 1400px;
+}
+.div10 {
+    width: 250px;
+    height: 270px;
+    position: absolute;
+    right: 200px;
+    top: 1400px;
+}
+.section5 {
+    background-color: white;
+    width: 100%;
+    height: 700px;
+
+}
+.section5 h1 {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+
+}
+#paraga {
+    color: rgb(124, 120, 120);
+    text-align-last: center;
+    text-align: center;
+}
+#parag {
+    text-align: left;
+    color: rgb(122, 120, 120);
+    margin: 10px 0;
+}
+.section5 img {
+    overflow: hidden;
+    width: 250px;
+    height: 350px;
+}
+#logo {
+    display: inline block;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+}
+.div11 {
+    width: 250px;
+    height: 500px;
+    position: absolute;
+    right: 1120px;
+    top: 1900px;
+}
+.div12 {
+    width: 250px;
+    height: 500px;
+    position: absolute;
+    right: 790px;
+    top: 1900px;
+}
+.div13 {
+    width: 250px;
+    height: 500px;
+    position: absolute;
+    right: 460px;
+    top: 1900px;
+}
+.div14 {
+    width: 250px;
+    height: 500px;
+    position: absolute;
+    right: 130px;
+    top: 1900px;
+}
+.section6 {
+    width: 100%;
+    height: 700px;
+    background-color: azure;
+}
+.div15 {
+    height: 500px;
+    width: 500px;
+   position: absolute;
+   right: 850px;
+   top: 2550px;
+}
+.div16 {
+    height: 500px;
+    width: 600px;
+    position: absolute;
+    right: 150px;
+    top: 2550px;
+}
+#image {
+    width: 600px;
+    height: 500px;
+}
+.div15 h1 {
+    font-size: 60px;
+    margin-bottom: 15px;
+}
+.div15 p {
+    color: rgb(117, 114, 114);
+    margin-bottom: 15px;
+}
+.div15 ul{
+    list-style-type: none;
+    margin: 15px 15px;
+    color: rgb(129, 125, 125);
+    line-height: 25px;
+}
+.div15 ul li:before {
+    content: "\2714\0020";
+    color: red;
+}
+.section7 {
+    width: 100%;
+    height: 800px;
+    background-color: azure;
+}
+.section7 h1 {
+    text-align: center;
+    font-size: 50px;
+    margin: 10px 0;
+}
+#paragr {
+    color: rgb(117, 116, 116);
+    text-align: center;
+}
+#buton {
+    text-decoration: none;
+    border: 2px solid orangered;
+    color: orangered;
+    position: absolute;
+    right: 110px;
+    bottom: 50px;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.div17 {
+    border: 3px solid orangered;
+    border-radius: 4px;
+    height: 500px;
+    width: 350px;
+    position: absolute;
+    right: 970px;
+    top: 3300px;
+}
+.div18 {
+    border: 3px solid orangered;
+    border-radius: 4px;
+    background-color: rgb(240, 23, 23);
+    height: 500px;
+    width: 350px;
+    position: absolute;
+    right: 590px;
+    top: 3300px;
+}
+.div19 {
+    border: 3px solid orangered;
+    border-radius: 4px;
+    height: 500px;
+    width: 350px;
+    position: absolute;
+    right: 210px;
+    top: 3300px;
+}
+.section7 h2 {
+    text-align: center;
+    font-size: 15px;
+    margin: 15px 0;
+}
+#num {
+    font-size: 70px;
+    color: orangered;
+    text-align: center;
+}
+#word{
+    text-align: center;
+    color: orangered;
+    font-size: 10px;
+    margin-bottom: 30px;
+}
+#headng {
+    color: white;
+}
+#numm {
+    font-size: 70px;
+    color: white;
+    text-align: center;
+}
+#wrd {
+    text-align: center;
+    color: white;
+    font-size: 10px;
+    margin-bottom: 30px;
+} 
+#list {
+    color: white;
+}
+#butoon {
+    text-decoration: none;
+    border: 2px solid orangered;
+    border-radius: 5px;
+    color: orangered;
+    position: absolute;
+    right: 110px;
+    bottom: 50px;
+    padding: 10px 15px;
+    background-color: white; 
+}
+.section7 ul {
+    color: rgb(109, 107, 107);
+    list-style-type: none;
+    margin: 25px;
+    line-height: 30px;
+}
+.div17 ul li:before {
+    content: "\2714\0020";
+    color: red;
+}
+.div18 ul li:before {
+    content: "\2714\0020";
+    color: white;
+}
+.div19 ul li:before {
+    content: "\2714\0020";
+    color: red;
+}
+.section8 {
+    width: 100%;
+    height: 400px;
+    background-color: rgb(240, 23, 23);
+}
+.div20 {
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    right: 500px;
+    top: 4000px;
+}
+.section8 h3 {
+    text-align: center;
+    color: white;
+    margin: 30px;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+}
+.section8 h1 {
+    font-size: 75px;
+    color: white;
+    text-align: center;
+    margin-bottom: 80px;
+}
+#butn {
+background-color: rgb(240, 23, 23);
+    border-radius: 5px;
+    border: 2px solid white;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin:0 0 0 230px;
+}
+.footer {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(63, 61, 61);
+    color: white;
+    display: inline-block;
+}
+#imag {
+    margin: 20px 0 0 20px;
+}
+#loggo {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    border:2px solid white;
+    border-radius: 50%;
+    margin: 25px 5px 5px 10px ;
+    position: relative;
+    left: 400px;
+}
+#end {
+    position: absolute;
+    right: 20px;
+    top: 4390px;
+    color:rgb(194, 190, 190)
+}
